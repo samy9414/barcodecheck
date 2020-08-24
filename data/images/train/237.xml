@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>§</name>
+		<name>nine</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
